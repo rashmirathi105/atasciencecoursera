@@ -1,2 +1,2 @@
-# atasciencecoursera
+# datasciencecoursera
 For Coursera
